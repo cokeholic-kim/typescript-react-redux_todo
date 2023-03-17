@@ -1,0 +1,14 @@
+﻿npx create-react-app ts-redux2-tutorial2 --template typescript
+
+타입스크립트 리덕스
+npm install redux react-redux @types/react-redux
+
+createStore(리듀서)
+
+리덕스 모듈
+ㄴ액션타입
+ㄴ액션생성함수
+ㄴ리듀서함수
+
+1.카운터 리덕스 모듈 작성하기
+modules 폴더 안에 counter.ts생성
